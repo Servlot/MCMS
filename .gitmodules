@@ -1,0 +1,3 @@
+[submodule "src/Servlot"]
+	path = src/Servlot
+	url = git@github.com:Servlot/Servlot.git
